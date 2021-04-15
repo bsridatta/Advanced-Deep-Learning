@@ -3,7 +3,7 @@ DD2412 Deep Learning, Advanced Course - KTH
 
 ## Paper Summaries
 1. Uncertainty Estimation with Deep Networks - On Calibration of Modern Neural Networks
-2. Best Practices in Machine Learning - Cold Case: The Lost MNIST Digits (**Awarded as one of the best summaries (5/~100)**)
+2. Best Practices in Machine Learning - Cold Case: The Lost MNIST Digits (**Awarded as one of the best summaries (top 5/~100)**)
 3. Understanding Deep Networks - Deep ReLU Networks Have Surprisingly Few Activation Patterns
 
 ## Paper Reproduction - NeurIPS Reproducibility Challenge
